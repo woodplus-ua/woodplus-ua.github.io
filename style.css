@@ -268,6 +268,11 @@ p {
   display: flex;
 }
 
+.show-more-btn {
+  display: block;
+  margin: 1.6rem auto 0;
+}
+
 /* Materials */
 
 .materials-grid {
